@@ -22,3 +22,9 @@
 ├── style.css      # Styles and layout
 ├── script.js      # App logic and localStorage handling
 ```
+---
+## 🧑‍💻 Author
+
+**LOKESH K**
+
+---
