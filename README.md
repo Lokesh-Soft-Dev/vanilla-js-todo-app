@@ -1,7 +1,7 @@
 # 📝 Vanilla JS To-Do App
 
-A simple and responsive to-do list app built using pure HTML, CSS, and JavaScript — no frameworks or libraries used. <br>
-It supports task persistence with localStorage and includes features like adding, deleting, and clearing tasks.
+- A simple and responsive to-do list app built using pure HTML, CSS, and JavaScript — no frameworks or libraries used. <br>
+- It supports task persistence with localStorage and includes features like adding, deleting, and clearing tasks.
 
 > This project is built using **vanilla JavaScript** (i.e., no external libraries or frameworks), showcasing core web development skills.
 
