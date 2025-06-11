@@ -24,6 +24,7 @@
 ├── script.js      # App logic and localStorage handling
 ```
 ---
+
 ## 🧑‍💻 Author
 
 **LOKESH K**
