@@ -7,7 +7,7 @@
 > This project is built using **vanilla JavaScript** (i.e., no external libraries or frameworks), showcasing core web development skills.
 
 ## Live Demo: https://lokesh-soft-dev.github.io/vanilla-js-todo-app/
-
+---
 ## ✨ Features
 
 - Add, delete, and clear tasks
