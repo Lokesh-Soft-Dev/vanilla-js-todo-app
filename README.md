@@ -5,7 +5,7 @@
 - It supports task persistence with localStorage and includes features like adding, deleting, and clearing tasks.
 
 > This project is built using **vanilla JavaScript** (i.e., no external libraries or frameworks), showcasing core web development skills.
-
+---
 ## Live Demo: https://lokesh-soft-dev.github.io/vanilla-js-todo-app/
 ---
 ## ✨ Features
