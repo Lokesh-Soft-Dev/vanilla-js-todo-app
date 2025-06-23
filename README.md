@@ -14,7 +14,7 @@
 - Tasks saved in localStorage
 - Responsive design with modern UI
 - Keyboard support (press Enter to add)
-
+  
 ## 📁 Project Structure
 
 ```plaintext
